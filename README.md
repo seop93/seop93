@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @seop93
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+☁️BYEON HEUNG SEOP 변흥섭☁️
+ 
+
+🛠Tech Stack🛠
+Languages & Platform
+
+   
+
+Tools
+
+    
 
 <!---
 seop93/seop93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
